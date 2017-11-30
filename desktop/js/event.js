@@ -33,7 +33,7 @@
 			case 'modal':
 			$('#md_modal').dialog({title: cmd.name});
 			$('#md_modal').attr('data-clink',cmd.eqLogic_id);
-			if(cmd.configuration.type == 'url'){
+			if(cmd.configuration.type == 'url' || cmd.configuration.type == 'plan'){
 				$('#md_modal').load('index.php?v=d&plugin=clink&modal=iframe.clink&url=' + encodeURI(url)).dialog('open');
 			}else{
 				$('#md_modal').load(url+'&ajax=1').dialog('open');
