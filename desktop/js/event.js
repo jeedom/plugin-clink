@@ -19,7 +19,9 @@
 			var panel = cmd.configuration.link.split(":")
 			var url = 'index.php?v=d&m='+panel[0]+'&p='+panel[1];
 		}else if (cmd.configuration.type == 'dashboard'){ 
-			var url = 'index.php?v=d&p='+cmd.configuration.type+'&object_id='+cmd.configuration.link+'&noControl=1&fullscreen=1';
+			var url = 'index.php?v=d&p='+cmd.configuration.type+'&object_id='+cmd.configuration.link;
+		}else if (cmd.configuration.type == 'plan'){ 
+			var url = window.location.origin +'/index.php?v=d&p=plan&object_id='+cmd.configuration.link+'&noControl=1&fullscreen=1';
 		} else {
 			var url = 'index.php?v=d&p='+cmd.configuration.type+'&'+cmd.configuration.type+'_id='+cmd.configuration.link+'&noControl=1';
 		}
