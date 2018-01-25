@@ -35,7 +35,7 @@ Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
 ![clink4](../images/clink4.PNG)
 
-Vous retrouvez ici toute la configuration de votre équipement :
+Hier finden sie die ganze Konfiguration Ihrer Geräte:
 
 -   **Nom de l’équipement Clink** : nom de votre équipement Clink,
 
