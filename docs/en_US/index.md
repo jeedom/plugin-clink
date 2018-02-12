@@ -6,12 +6,12 @@ d’afficher directement la caméra de l’entrée sur votre Jeedom.
 
 == Plugin configuration
 
-Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
-il n’y a aucune configuration à ce niveau.
+After downloading the plugin, you just have to activate it,
+there is no configuration at this level.
 
 ![clink1](../images/clink1.PNG)
 
-Configuration des équipements 
+Equipment configuration
 =============================
 
 La configuration des équipements Clink est accessible à partir du menu
