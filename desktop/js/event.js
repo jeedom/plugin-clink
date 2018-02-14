@@ -21,9 +21,9 @@
 		}else if (cmd.configuration.type == 'dashboard'){ 
 			var url = 'index.php?v=d&p='+cmd.configuration.type+'&object_id='+cmd.configuration.link;
 		}else if (cmd.configuration.type == 'plan'){ 
-			var url = window.location.origin +'/index.php?v=d&p=plan&plan_id='+cmd.configuration.link+'&noControl=1&fullscreen=1';
+			var url = window.location.origin +'/index.php?v=d&p=plan&plan_id='+cmd.configuration.link;
 		} else {
-			var url = 'index.php?v=d&p='+cmd.configuration.type+'&'+cmd.configuration.type+'_id='+cmd.configuration.link+'&noControl=1';
+			var url = 'index.php?v=d&p='+cmd.configuration.type+'&'+cmd.configuration.type+'_id='+cmd.configuration.link;
 		}
 		switch(cmd.configuration.mode) {
 			case 'current':
@@ -33,6 +33,7 @@
 			window.open(url);
 			return;
 			case 'modal':
+			url += 'fullscreen=1';
 			$('#md_modal').dialog({title: cmd.name});
 			$('#md_modal').attr('data-clink',cmd.eqLogic_id);
 			if(cmd.configuration.type == 'url' || cmd.configuration.type == 'plan'){
