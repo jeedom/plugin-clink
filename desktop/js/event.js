@@ -33,7 +33,9 @@
 			window.open(url);
 			return;
 			case 'modal':
-			url += 'fullscreen=1';
+			if(cmd.configuration.type != 'url'){
+				url += '&fullscreen=1';
+			}	
 			$('#md_modal').dialog({title: cmd.name});
 			$('#md_modal').attr('data-clink',cmd.eqLogic_id);
 			if(cmd.configuration.type == 'url' || cmd.configuration.type == 'plan'){
