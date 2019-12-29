@@ -8,5 +8,6 @@
 	"category" : "programming",
 	"eventjs" : 1,
 	"changelog" : "https://jeedom.github.io/plugin-clink/#language#/changelog",
-	"documentation" : "https://jeedom.github.io/plugin-clink/#language#/"
+	"documentation" : "https://jeedom.github.io/plugin-clink/#language#/",
+    "compatibility" : ["miniplus","smart","rpi","diy","v4"]
 }
