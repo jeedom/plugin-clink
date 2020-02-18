@@ -1,0 +1,55 @@
+{
+    "desktop\/modal\/iframe.clink.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado"
+    },
+    "desktop\/js\/clink.js": {
+        "Mode": "modo",
+        "Modale": "modal",
+        "Fenêtre courante": "Ventana actual",
+        "Nouvel onglet": "Nueva pestaña",
+        "Type": "tipo",
+        "Vue": "vista",
+        "Design": "diseño",
+        "Panel": "panel",
+        "Dashboard": "salpicadero",
+        "URL": "URL",
+        "Nom": "apellido",
+        "Filtre utilisateur": "Filtro de usuario",
+        "Tous": "todos",
+        "Filtre page": "Filtro de página",
+        "Toute": "Toda",
+        "Filtre interface": "Filtro de interfaz",
+        "Desktop": "escritorio",
+        "Mobile": "móvil",
+        "Afficher": "visualización",
+        "Tester": "prueba",
+        "Défaut": "culpa"
+    },
+    "desktop\/php\/clink.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Gestion": "administración",
+        "Ajouter": "añadir",
+        "Mes clinks": "Mis tintineos",
+        "Rechercher": "Buscar",
+        "Configuration avancée": "Configuración avanzada",
+        "Dupliquer": "duplicado",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "remove",
+        "Equipement": "equipo",
+        "Commandes": "comandos",
+        "Nom de l'équipement": "Nombre del equipo",
+        "Nom de l'équipement virtuel": "Nombre del dispositivo virtual.",
+        "Objet parent": "Objeto padre",
+        "Aucun": "no",
+        "Catégorie": "categoría",
+        "Activer": "Activar",
+        "Visible": "visible",
+        "Ajouter une commande": "Agregar un pedido",
+        "Nom": "apellido",
+        "Paramètres": "configuraciones",
+        "Options": "opciones"
+    },
+    "core\/class\/clink.class.php": {
+        "Fermer": "To close"
+    }
+}
