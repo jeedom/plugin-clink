@@ -1,99 +1,99 @@
 Ce plugin permet la gestion de liens et d’évènements sur l’interface de
-Jeedom. Vous pourrez par exemple avec celui-ci créer une commande qui
-ouvre une modale (fenêtre de dialogue) avec une vue contenant vos
+Jeedom. Sie können damit beispielsweise eine Bestellung erstellen, die
+öffnet ein Modal (Dialogfenster) mit einer Ansicht, die Ihre enthält
 caméras. Cela permet par exemple lorsque quelqu’un sonne chez vous
 d’afficher directement la caméra de l’entrée sur votre Jeedom.
 
-Plugin-Konfiguration
+Plugin Konfiguration 
 =======================
 
-Nachdem das Plugin herunterzuladen, müssen Sie nur um es zu aktivieren,
-gibt es auf dieser Ebene keine Konfiguration.
+Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
+il n’y a aucune configuration à ce niveau.
 
-![clink1](../images/clink1.PNG)
+![Clink1] (../ images / clink1.PNG)
 
-Gerätekonfiguration
+Gerätekonfiguration 
 =============================
 
-La configuration des équipements Clink est accessible à partir du menu
+Die Konfiguration der Clink-Geräte ist über das Menü zugänglich
 Plugins :
 
-![clink2](../images/clink2.PNG)
+![Clink2] (../ images / clink2.PNG)
 
-Voilà à quoi ressemble la page du plugin Clink (ici avec déjà 1
-équipement) :
+So sieht die Clink-Plugin-Seite aus (hier mit bereits 1
+Ausrüstung) :
 
-![clink3](../images/clink3.PNG)
+![Clink3] (../ images / clink3.PNG)
 
-> **Tip**
+> **Spitze**
 >
-> Wie an vielen Stellen in Jeedom kann mit dem Mauszeiger ganz links, ein
-> Menü mit Schnellzugriff aufgerufen werden (Sie können in Ihrem Profil
-> immer sichtbar einstellen).  
+> Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche
+> permet de faire apparaître un menu d’accès rapide (vous pouvez, à
+> Lassen Sie es in Ihrem Profil immer sichtbar.
 
-Sobald Sie eines davon anklicken, erhalten Sie :
+Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
-![clink4](../images/clink4.PNG)
+![Clink4] (../ images / clink4.PNG)
 
-Sie werden hier alle die Konfiguration Ihrer Geräte finden:
+Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Nom de l’équipement Clink** : nom de votre équipement Clink,
+-   **Name de l’équipement Clink** : Name Ihrer Clink-Ausrüstung,
 
--   **Übergeordnete Objekt** zeigt das übergeordnete Objekt gehört
-    Ausrüstung,
+-   **Übergeordnetes Objekt** : indique l’objet parent auquel appartient
+    l’équipement,
 
--   **Aktivieren**: auf Ihre aktive Ausrüstung zu machen,
+-   **activate** : macht Ihre Ausrüstung aktiv,
 
--   **Visible** : rend votre équipement visible sur le dashboard.
+-   **sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
-En-dessous vous retrouvez la liste des commandes :
+Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Nom** : le nom affiché sur le dashboard,
+-   **Name** : der auf dem Dashboard angezeigte Name,
 
--   **Mode** : le mode d’affichage de l’élément (dans une modale, dans
-    une nouvelle fenêtre ou dans la fenêtre courante)
+-   **Modus** : le mode d’affichage de l’élément (dans une modale, dans
+    ein neues Fenster oder im aktuellen Fenster)
 
-    > **Note**
+    > **Notiz**
     >
-    > En mobile "nouvelle fenêtre" et "fenêtre courante" font la même
-    > chose : ouverture du lien dans la fenêtre courante
+    > Im Handy machen &quot;neues Fenster&quot; und &quot;aktuelles Fenster&quot; dasselbe
+    > Sache : Link im aktuellen Fenster öffnen
 
--   **Type** : type d’élément à ouvrir (vue, design, panel ou URL)
+-   **Typ** : type d’élément à ouvrir (vue, design, panel ou URL)
 
--   **Nom** : option en fonction de l’élément choisi à ouvrir
+-   **Name** : option en fonction de l’élément choisi à ouvrir
 
--   **Filtre utilisateur** : permet de filtrer pour n’ouvrir l’élément
+-   **Benutzerfilter** : permet de filtrer pour n’ouvrir l’élément
     que si c’est cet utilisateur qui est connecté
 
--   **Filtre page** : permet de filtrer pour n’ouvrir l’élément que si
-    on est sur la page mentionnée
+-   **Seitenfilter** : permet de filtrer pour n’ouvrir l’élément que si
+    Wir sind auf der genannten Seite
 
-    > **Note**
+    > **Notiz**
     >
-    > En version mobile cette option ne fait rien
+    > In der mobilen Version bewirkt diese Option nichts
 
--   **Filtre interface** : permet de filtrer pour n’ouvrir l’élément
+-   **Schnittstellenfilter** : permet de filtrer pour n’ouvrir l’élément
     qu’en version mobile/desktop ou sur les 2
 
--   **Afficher** : permet d’afficher la donnée sur le dashboard
+-   **Anzeige** : permet d’afficher la donnée sur le dashboard
 
--   **Tester** : permet de tester la commande,
+-   **Test** : ermöglicht das Testen des Befehls,
 
--   **Supprimer** (signe -) : permet de supprimer la commande.
+-   **Entfernen** (Zeichen -) : ermöglicht es Ihnen, die Bestellung zu löschen.
 
-> **Important**
+> **wichtig**
 >
-> Il ne faut surtout pas ouvrir la même vue sur elle-même, idem pour les
-> designs !
+> Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso für
+> Designs!
 
-> **Important**
+> **wichtig**
 >
 > En mobile l’ouverture d’une URL ne peut pas être faite dans une modale
-> comme pour les designs.
+> wie für die Designs.
 
-> **Important**
+> **wichtig**
 >
-> Toutes les URLs ne peuvent être ouvertes en modale, cela dépend du
-> site (ex : google.fr ne peut être ouvert dans une modale). Attention
-> aussi si vous êtes en https, il faut absolument que le site à ouvrir
-> dans la modale soit en https.
+> Nicht alle URLs können modal geöffnet werden, dies hängt von der
+> Website (z : google.fr kann nicht modal geöffnet werden). Aufmerksamkeit
+> Auch wenn Sie sich in https befinden, muss die Site unbedingt geöffnet werden
+> in modal entweder in https.
