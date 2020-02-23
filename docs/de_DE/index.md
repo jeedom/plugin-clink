@@ -29,7 +29,7 @@ Ausrüstung) :
 >
 > Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
 > ruft ein Schnellzugriffsmenü auf (Sie können unter
-> Lassen Sie es in Ihrem Profil immer sichtbar.
+> Lassen Sie es in Ihrem Profil immer sichtbar.).
 
 Sobald Sie auf eine davon klicken, erhalten Sie :
 
@@ -79,12 +79,12 @@ Nachfolgend finden Sie die Liste der Bestellungen :
 
 -   **Test** : ermöglicht das Testen des Befehls,
 
--   **Entfernen** (Zeichen -) : ermöglicht es Ihnen, die Bestellung zu löschen.
+-   **Entfernen** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
 > **wichtig**
 >
 > Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso für
-> Designs!
+> Design !
 
 > **wichtig**
 >

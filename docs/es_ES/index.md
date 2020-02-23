@@ -2,13 +2,13 @@ Este complemento permite la gestión de enlaces y eventos en la interfaz de
 Jeedom. Por ejemplo, puede crear un pedido que
 abre un modal (ventana de diálogo) con una vista que contiene su
 cámaras. Esto permite, por ejemplo, cuando alguien llama a su casa.
-Muestre la cámara de entrada directamente en su Jeedom.
+muestra la cámara de entrada directamente en tu Jeedom.
 
 Configuración del complemento 
 =======================
 
 Después de descargar el complemento, solo necesita activarlo,
-No hay configuración en este nivel.
+no hay configuración a este nivel.
 
 ![clink1](../images/clink1.PNG)
 
@@ -29,7 +29,7 @@ equipos) :
 >
 > Como en muchos lugares de Jeedom, coloca el mouse en el extremo izquierdo
 > muestra un menú de acceso rápido (puede, en
-> desde su perfil, siempre déjelo visible).
+> desde tu perfil, siempre déjalo visible).
 
 Una vez que haces clic en uno de ellos, obtienes :
 
@@ -44,7 +44,7 @@ Aquí encontrarás toda la configuración de tu equipo :
 
 -   **Activar** : activa su equipo,
 
--   **visible** : hace que su equipo sea visible en el tablero de instrumentos.
+-   **visible** : hace que su equipo sea visible en el tablero.
 
 A continuación encontrará la lista de pedidos. :
 
@@ -79,17 +79,17 @@ A continuación encontrará la lista de pedidos. :
 
 -   **prueba** : permite probar el comando,
 
--   **remove** (signo -) : le permite eliminar el pedido.
+-   **remove** (signo -) : permite eliminar el comando.
 
 > **importante**
 >
 > Es importante no abrir la misma vista en sí mismo, lo mismo para
-> diseños!
+> diseños !
 
 > **importante**
 >
 > En el móvil, la apertura de una URL no se puede hacer de manera modal
-> En cuanto a los diseños.
+> en cuanto a los diseños.
 
 > **importante**
 >

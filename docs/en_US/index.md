@@ -79,12 +79,12 @@ Below you find the list of orders :
 
 -   **Test** : allows to test the command,
 
--   **Remove** (sign -) : allows you to delete the order.
+-   **Remove** (sign -) : allows to delete the command.
 
 > **Important**
 >
 > It is important not to open the same view on itself, ditto for
-> designs!
+> designs !
 
 > **Important**
 >
