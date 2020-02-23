@@ -1,14 +1,14 @@
-Ce plugin permet la gestion de liens et d’évènements sur l’interface de
+Este complemento permite la gestión de enlaces y eventos en la interfaz de
 Jeedom. Por ejemplo, puede crear un pedido que
 abre un modal (ventana de diálogo) con una vista que contiene su
-caméras. Cela permet par exemple lorsque quelqu’un sonne chez vous
-d’afficher directement la caméra de l’entrée sur votre Jeedom.
+cámaras. Esto permite, por ejemplo, cuando alguien llama a su casa.
+Muestre la cámara de entrada directamente en su Jeedom.
 
 Configuración del complemento 
 =======================
 
-Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
-il n’y a aucune configuration à ce niveau.
+Después de descargar el complemento, solo necesita activarlo,
+No hay configuración en este nivel.
 
 ![clink1](../images/clink1.PNG)
 
@@ -27,20 +27,20 @@ equipos) :
 
 > **punta**
 >
-> Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche
-> permet de faire apparaître un menu d’accès rapide (vous pouvez, à
+> Como en muchos lugares de Jeedom, coloca el mouse en el extremo izquierdo
+> muestra un menú de acceso rápido (puede, en
 > desde su perfil, siempre déjelo visible).
 
-Une fois que vous cliquez sur l’un d’eux, vous obtenez :
+Una vez que haces clic en uno de ellos, obtienes :
 
 ![clink4](../images/clink4.PNG)
 
 Aquí encontrarás toda la configuración de tu equipo :
 
--   **apellido de l’équipement Clink** : nombre de su equipo Clink,
+-   **Clink nombre del equipo** : nombre de su equipo Clink,
 
--   **Objeto padre** : indique l’objet parent auquel appartient
-    l’équipement,
+-   **Objeto padre** : indica el objeto padre al que pertenece
+    equipos,
 
 -   **Activar** : activa su equipo,
 
@@ -50,7 +50,7 @@ A continuación encontrará la lista de pedidos. :
 
 -   **apellido** : el nombre que se muestra en el tablero,
 
--   **modo** : le mode d’affichage de l’élément (dans une modale, dans
+-   **modo** : El modo de visualización del elemento (en un modo, en
     una nueva ventana o en la ventana actual)
 
     > **nota**
@@ -58,24 +58,24 @@ A continuación encontrará la lista de pedidos. :
     > En el móvil, &quot;nueva ventana&quot; y &quot;ventana actual&quot; hacen lo mismo
     > cosa : abrir enlace en la ventana actual
 
--   **tipo** : type d’élément à ouvrir (vue, design, panel ou URL)
+-   **tipo** : tipo de elemento para abrir (vista, diseño, panel o URL)
 
--   **apellido** : option en fonction de l’élément choisi à ouvrir
+-   **apellido** : opción según el elemento seleccionado para abrir
 
--   **Filtro de usuario** : permet de filtrer pour n’ouvrir l’élément
-    que si c’est cet utilisateur qui est connecté
+-   **Filtro de usuario** : permite filtrar para abrir el elemento
+    solo si este usuario ha iniciado sesión
 
--   **Filtro de página** : permet de filtrer pour n’ouvrir l’élément que si
+-   **Filtro de página** : permite filtrar para abrir el elemento solo si
     estamos en la página mencionada
 
     > **nota**
     >
     > En la versión móvil, esta opción no hace nada
 
--   **Filtro de interfaz** : permet de filtrer pour n’ouvrir l’élément
-    qu’en version mobile/desktop ou sur les 2
+-   **Filtro de interfaz** : permite filtrar para abrir el elemento
+    solo en versión móvil / de escritorio o en ambos
 
--   **visualización** : permet d’afficher la donnée sur le dashboard
+-   **visualización** : permite mostrar los datos en el tablero
 
 -   **prueba** : permite probar el comando,
 
@@ -88,7 +88,7 @@ A continuación encontrará la lista de pedidos. :
 
 > **importante**
 >
-> En mobile l’ouverture d’une URL ne peut pas être faite dans une modale
+> En el móvil, la apertura de una URL no se puede hacer de manera modal
 > En cuanto a los diseños.
 
 > **importante**

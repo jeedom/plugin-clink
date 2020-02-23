@@ -1,14 +1,14 @@
-Ce plugin permet la gestion de liens et d’évènements sur l’interface de
+Dieses Plugin ermöglicht die Verwaltung von Links und Ereignissen auf der Oberfläche von
 Jeedom. Sie können damit beispielsweise eine Bestellung erstellen, die
 öffnet ein Modal (Dialogfenster) mit einer Ansicht, die Ihre enthält
-caméras. Cela permet par exemple lorsque quelqu’un sonne chez vous
-d’afficher directement la caméra de l’entrée sur votre Jeedom.
+Kameras. Dies ermöglicht zum Beispiel, wenn jemand bei Ihnen zu Hause klingelt
+Zeigen Sie die Eingangskamera direkt auf Ihrem Jeedom an.
 
 Plugin Konfiguration 
 =======================
 
-Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
-il n’y a aucune configuration à ce niveau.
+Nachdem Sie das Plugin heruntergeladen haben, müssen Sie es nur noch aktivieren.
+Auf dieser Ebene gibt es keine Konfiguration.
 
 ![clink1](../images/clink1.PNG)
 
@@ -27,20 +27,20 @@ Ausrüstung) :
 
 > **Spitze**
 >
-> Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche
-> permet de faire apparaître un menu d’accès rapide (vous pouvez, à
+> Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
+> ruft ein Schnellzugriffsmenü auf (Sie können unter
 > Lassen Sie es in Ihrem Profil immer sichtbar.
 
-Une fois que vous cliquez sur l’un d’eux, vous obtenez :
+Sobald Sie auf eine davon klicken, erhalten Sie :
 
 ![clink4](../images/clink4.PNG)
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name de l’équipement Clink** : Name Ihrer Clink-Ausrüstung,
+-   **Name der Klirrausrüstung** : Name Ihrer Clink-Ausrüstung,
 
--   **Übergeordnetes Objekt** : indique l’objet parent auquel appartient
-    l’équipement,
+-   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
+    Ausrüstung,
 
 -   **activate** : macht Ihre Ausrüstung aktiv,
 
@@ -50,7 +50,7 @@ Nachfolgend finden Sie die Liste der Bestellungen :
 
 -   **Name** : der auf dem Dashboard angezeigte Name,
 
--   **Modus** : le mode d’affichage de l’élément (dans une modale, dans
+-   **Modus** : der Anzeigemodus des Elements (in einem Modal, in
     ein neues Fenster oder im aktuellen Fenster)
 
     > **Notiz**
@@ -58,24 +58,24 @@ Nachfolgend finden Sie die Liste der Bestellungen :
     > Im Handy machen &quot;neues Fenster&quot; und &quot;aktuelles Fenster&quot; dasselbe
     > Sache : Link im aktuellen Fenster öffnen
 
--   **Typ** : type d’élément à ouvrir (vue, design, panel ou URL)
+-   **Typ** : Art des zu öffnenden Elements (Ansicht, Design, Bedienfeld oder URL)
 
--   **Name** : option en fonction de l’élément choisi à ouvrir
+-   **Name** : Option abhängig von dem zum Öffnen ausgewählten Element
 
--   **Benutzerfilter** : permet de filtrer pour n’ouvrir l’élément
-    que si c’est cet utilisateur qui est connecté
+-   **Benutzerfilter** : Ermöglicht das Filtern zum Öffnen des Elements
+    Nur wenn dieser Benutzer angemeldet ist
 
--   **Seitenfilter** : permet de filtrer pour n’ouvrir l’élément que si
+-   **Seitenfilter** : erlaubt zu filtern, um das Element nur zu öffnen, wenn
     Wir sind auf der genannten Seite
 
     > **Notiz**
     >
     > In der mobilen Version bewirkt diese Option nichts
 
--   **Schnittstellenfilter** : permet de filtrer pour n’ouvrir l’élément
-    qu’en version mobile/desktop ou sur les 2
+-   **Schnittstellenfilter** : Ermöglicht das Filtern zum Öffnen des Elements
+    Nur in der Mobile / Desktop-Version oder auf beiden
 
--   **Anzeige** : permet d’afficher la donnée sur le dashboard
+-   **Anzeige** : ermöglicht die Anzeige der Daten im Dashboard
 
 -   **Test** : ermöglicht das Testen des Befehls,
 
@@ -88,7 +88,7 @@ Nachfolgend finden Sie die Liste der Bestellungen :
 
 > **wichtig**
 >
-> En mobile l’ouverture d’une URL ne peut pas être faite dans une modale
+> In Mobilgeräten kann das Öffnen einer URL nicht modal erfolgen
 > wie für die Designs.
 
 > **wichtig**

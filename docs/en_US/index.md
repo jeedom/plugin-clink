@@ -1,14 +1,14 @@
-Ce plugin permet la gestion de liens et d’évènements sur l’interface de
+This plugin allows the management of links and events on the interface of
 Jeedom. You can for example with this create an order which
 opens a modal (dialog window) with a view containing your
-caméras. Cela permet par exemple lorsque quelqu’un sonne chez vous
-d’afficher directement la caméra de l’entrée sur votre Jeedom.
+cameras. This allows for example when someone rings at your house
+display the entrance camera directly on your Jeedom.
 
 Plugin configuration 
 =======================
 
-Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
-il n’y a aucune configuration à ce niveau.
+After downloading the plugin, you just need to activate it,
+there is no configuration at this level.
 
 ![clink1](../images/clink1.PNG)
 
@@ -27,20 +27,20 @@ equipment) :
 
 > **Tip**
 >
-> Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche
-> permet de faire apparaître un menu d’accès rapide (vous pouvez, à
+> As in many places on Jeedom, place the mouse on the far left
+> brings up a quick access menu (you can, at
 > from your profile, always leave it visible).
 
-Une fois que vous cliquez sur l’un d’eux, vous obtenez :
+Once you click on one of them, you get :
 
 ![clink4](../images/clink4.PNG)
 
 Here you find all the configuration of your equipment :
 
--   **Last name de l’équipement Clink** : name of your Clink equipment,
+-   **Clink equipment name** : name of your Clink equipment,
 
--   **Parent object** : indique l’objet parent auquel appartient
-    l’équipement,
+-   **Parent object** : indicates the parent object to which belongs
+    equipment,
 
 -   **Activate** : makes your equipment active,
 
@@ -50,7 +50,7 @@ Below you find the list of orders :
 
 -   **Last name** : the name displayed on the dashboard,
 
--   **Fashion** : le mode d’affichage de l’élément (dans une modale, dans
+-   **Fashion** : the display mode of the element (in a modal, in
     a new window or in the current window)
 
     > **Note**
@@ -58,24 +58,24 @@ Below you find the list of orders :
     > In mobile &quot;new window&quot; and &quot;current window&quot; do the same
     > thing : open link in current window
 
--   **Type** : type d’élément à ouvrir (vue, design, panel ou URL)
+-   **Type** : type of element to open (view, design, panel or URL)
 
--   **Last name** : option en fonction de l’élément choisi à ouvrir
+-   **Last name** : option depending on the item selected to open
 
--   **User filter** : permet de filtrer pour n’ouvrir l’élément
-    que si c’est cet utilisateur qui est connecté
+-   **User filter** : allows to filter to open the element
+    only if this user is logged in
 
--   **Page filter** : permet de filtrer pour n’ouvrir l’élément que si
+-   **Page filter** : allows to filter to open the element only if
     we are on the page mentioned
 
     > **Note**
     >
     > In mobile version this option does nothing
 
--   **Interface filter** : permet de filtrer pour n’ouvrir l’élément
-    qu’en version mobile/desktop ou sur les 2
+-   **Interface filter** : allows to filter to open the element
+    only in mobile / desktop version or on both
 
--   **Pin up** : permet d’afficher la donnée sur le dashboard
+-   **Pin up** : allows to display the data on the dashboard
 
 -   **Test** : allows to test the command,
 
@@ -88,7 +88,7 @@ Below you find the list of orders :
 
 > **Important**
 >
-> En mobile l’ouverture d’une URL ne peut pas être faite dans une modale
+> In mobile the opening of a URL cannot be done in a modal
 > as for the designs.
 
 > **Important**
