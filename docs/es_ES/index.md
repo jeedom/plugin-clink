@@ -10,7 +10,7 @@ Configuración del complemento
 Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
 il n’y a aucune configuration à ce niveau.
 
-![Clink1] (../ images / clink1.PNG)
+![clink1](../images/clink1.PNG)
 
 Configuración del equipo 
 =============================
@@ -18,12 +18,12 @@ Configuración del equipo
 Se puede acceder a la configuración del equipo Clink desde el menú
 plugins :
 
-![Clink2] (../ images / clink2.PNG)
+![clink2](../images/clink2.PNG)
 
 Así es como se ve la página del complemento Clink (aquí con ya 1
 equipos) :
 
-![Clink3] (../ images / clink3.PNG)
+![clink3](../images/clink3.PNG)
 
 > **punta**
 >
@@ -33,7 +33,7 @@ equipos) :
 
 Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
-![Clink4] (../ images / clink4.PNG)
+![clink4](../images/clink4.PNG)
 
 Aquí encontrarás toda la configuración de tu equipo :
 
