@@ -1,31 +1,8 @@
 {
-    "desktop\/modal\/iframe.clink.php": {
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé"
     },
-    "desktop\/js\/clink.js": {
-        "Mode": "Mode",
-        "Modale": "Modale",
-        "Fenêtre courante": "Fenêtre courante",
-        "Nouvel onglet": "Nouvel onglet",
-        "Type": "Type",
-        "Vue": "Vue",
-        "Design": "Design",
-        "Panel": "Panel",
-        "Dashboard": "Dashboard",
-        "URL": "URL",
-        "Nom": "Nom",
-        "Filtre utilisateur": "Filtre utilisateur",
-        "Tous": "Tous",
-        "Filtre page": "Filtre page",
-        "Toute": "Toute",
-        "Filtre interface": "Filtre interface",
-        "Desktop": "Desktop",
-        "Mobile": "Mobile",
-        "Afficher": "Afficher",
-        "Tester": "Tester",
-        "Défaut": "Défaut"
-    },
-    "desktop\/php\/clink.php": {
+    "plugins\/clink\/desktop\/php\/clink.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Gestion": "Gestion",
         "Ajouter": "Ajouter",
@@ -49,7 +26,30 @@
         "Paramètres": "Paramètres",
         "Options": "Options"
     },
-    "core\/class\/clink.class.php": {
+    "plugins\/clink\/desktop\/js\/clink.js": {
+        "Mode": "Mode",
+        "Modale": "Modale",
+        "Fenêtre courante": "Fenêtre courante",
+        "Nouvel onglet": "Nouvel onglet",
+        "Type": "Type",
+        "Vue": "Vue",
+        "Design": "Design",
+        "Panel": "Panel",
+        "Dashboard": "Dashboard",
+        "URL": "URL",
+        "Nom": "Nom",
+        "Filtre utilisateur": "Filtre utilisateur",
+        "Tous": "Tous",
+        "Filtre page": "Filtre page",
+        "Toute": "Toute",
+        "Filtre interface": "Filtre interface",
+        "Desktop": "Desktop",
+        "Mobile": "Mobile",
+        "Afficher": "Afficher",
+        "Tester": "Tester",
+        "Défaut": "Défaut"
+    },
+    "plugins\/clink\/core\/class\/clink.class.php": {
         "Fermer": "Fermer"
     }
 }

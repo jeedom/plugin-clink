@@ -1,11 +1,35 @@
 {
-    "desktop\/modal\/iframe.clink.php": {
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
         "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff"
     },
-    "desktop\/js\/clink.js": {
+    "plugins\/clink\/desktop\/php\/clink.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Gestion": "Verwaltung",
+        "Ajouter": "Hinzufügen",
+        "Mes clinks": "",
+        "Rechercher": "Suchen nach",
+        "Configuration avancée": "Erweiterte Konfiguration",
+        "Dupliquer": "Duplikat",
+        "Sauvegarder": "Speichern",
+        "Supprimer": "Löschen",
+        "Equipement": "Gerät",
+        "Commandes": "Befehle",
+        "Nom de l'équipement": "Name der Ausrüstung",
+        "Nom de l'équipement virtuel": "Name des virtuellen Geräts",
+        "Objet parent": "Übergeordnetes Objekt",
+        "Aucun": "Ohne",
+        "Catégorie": "Kategorie",
+        "Activer": "Aktivieren",
+        "Visible": "Sichtbar",
+        "Ajouter une commande": "Kommando hinzufügen",
+        "Nom": "Name",
+        "Paramètres": "Einstellungen",
+        "Options": "Optionen"
+    },
+    "plugins\/clink\/desktop\/js\/clink.js": {
         "Mode": "Modus",
-        "Modale": "modal",
-        "Fenêtre courante": "Aktuelles Fenster",
+        "Modale": "",
+        "Fenêtre courante": "",
         "Nouvel onglet": "Neue Registerkarte",
         "Type": "Typ",
         "Vue": "Ansicht",
@@ -14,42 +38,18 @@
         "Dashboard": "Armaturenbrett",
         "URL": "URLs",
         "Nom": "Name",
-        "Filtre utilisateur": "Benutzerfilter",
-        "Tous": "alle",
-        "Filtre page": "Seitenfilter",
-        "Toute": "alle",
-        "Filtre interface": "Schnittstellenfilter",
+        "Filtre utilisateur": "",
+        "Tous": "Alle",
+        "Filtre page": "",
+        "Toute": "",
+        "Filtre interface": "",
         "Desktop": "Desktop",
         "Mobile": "Handy",
         "Afficher": "Anzeige",
         "Tester": "Test",
-        "Défaut": "Fehler"
+        "Défaut": "Standard"
     },
-    "desktop\/php\/clink.php": {
-        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
-        "Gestion": "Management",
-        "Ajouter": "hinzufügen",
-        "Mes clinks": "Mein Klirren",
-        "Rechercher": "Suche",
-        "Configuration avancée": "Erweiterte Konfiguration",
-        "Dupliquer": "Duplikat",
-        "Sauvegarder": "speichern",
-        "Supprimer": "Entfernen",
-        "Equipement": "Ausrüstung",
-        "Commandes": "Befehle",
-        "Nom de l'équipement": "Name der Ausrüstung",
-        "Nom de l'équipement virtuel": "Name des virtuellen Geräts",
-        "Objet parent": "Übergeordnetes Objekt",
-        "Aucun": "keine",
-        "Catégorie": "Kategorie",
-        "Activer": "activate",
-        "Visible": "sichtbar",
-        "Ajouter une commande": "Bestellung hinzufügen",
-        "Nom": "Name",
-        "Paramètres": "Einstellungen",
-        "Options": "Optionen"
-    },
-    "core\/class\/clink.class.php": {
-        "Fermer": "To close"
+    "plugins\/clink\/core\/class\/clink.class.php": {
+        "Fermer": "Schließen"
     }
 }

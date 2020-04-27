@@ -1,55 +1,55 @@
 {
-    "desktop\/modal\/iframe.clink.php": {
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
         "401 - Accès non autorisé": "401 - Acceso no autorizado"
     },
-    "desktop\/js\/clink.js": {
-        "Mode": "modo",
-        "Modale": "modal",
-        "Fenêtre courante": "Ventana actual",
-        "Nouvel onglet": "Nueva pestaña",
-        "Type": "tipo",
-        "Vue": "vista",
-        "Design": "diseño",
-        "Panel": "panel",
-        "Dashboard": "salpicadero",
-        "URL": "URL",
-        "Nom": "apellido",
-        "Filtre utilisateur": "Filtro de usuario",
-        "Tous": "todos",
-        "Filtre page": "Filtro de página",
-        "Toute": "Toda",
-        "Filtre interface": "Filtro de interfaz",
-        "Desktop": "escritorio",
-        "Mobile": "móvil",
-        "Afficher": "visualización",
-        "Tester": "prueba",
-        "Défaut": "culpa"
-    },
-    "desktop\/php\/clink.php": {
+    "plugins\/clink\/desktop\/php\/clink.php": {
         "401 - Accès non autorisé": "401 - Acceso no autorizado",
-        "Gestion": "administración",
-        "Ajouter": "añadir",
-        "Mes clinks": "Mis tintineos",
+        "Gestion": "Gestión",
+        "Ajouter": "Añadir",
+        "Mes clinks": "",
         "Rechercher": "Buscar",
         "Configuration avancée": "Configuración avanzada",
-        "Dupliquer": "duplicado",
+        "Dupliquer": "Duplicar",
         "Sauvegarder": "Guardar",
-        "Supprimer": "remove",
-        "Equipement": "equipo",
-        "Commandes": "comandos",
+        "Supprimer": "Borrar",
+        "Equipement": "Dispositivos",
+        "Commandes": "Comandos",
         "Nom de l'équipement": "Nombre del equipo",
         "Nom de l'équipement virtuel": "Nombre del dispositivo virtual.",
         "Objet parent": "Objeto padre",
-        "Aucun": "no",
-        "Catégorie": "categoría",
+        "Aucun": "Ninguna",
+        "Catégorie": "Categoría",
         "Activer": "Activar",
-        "Visible": "visible",
-        "Ajouter une commande": "Agregar un pedido",
-        "Nom": "apellido",
-        "Paramètres": "configuraciones",
-        "Options": "opciones"
+        "Visible": "Visible",
+        "Ajouter une commande": "Añadir una orden",
+        "Nom": "Nombre",
+        "Paramètres": "Configuraciones",
+        "Options": "Opciones"
     },
-    "core\/class\/clink.class.php": {
-        "Fermer": "To close"
+    "plugins\/clink\/desktop\/js\/clink.js": {
+        "Mode": "Modo",
+        "Modale": "",
+        "Fenêtre courante": "",
+        "Nouvel onglet": "Nueva pestaña",
+        "Type": "Tipo",
+        "Vue": "Vista",
+        "Design": "Diseño",
+        "Panel": "Panel",
+        "Dashboard": "Salpicadero",
+        "URL": "URL",
+        "Nom": "Nombre",
+        "Filtre utilisateur": "",
+        "Tous": "Todos",
+        "Filtre page": "",
+        "Toute": "",
+        "Filtre interface": "",
+        "Desktop": "Escritorio",
+        "Mobile": "Móvil",
+        "Afficher": "Mostrar",
+        "Tester": "Probar",
+        "Défaut": "Por defecto"
+    },
+    "plugins\/clink\/core\/class\/clink.class.php": {
+        "Fermer": "Cerca"
     }
 }

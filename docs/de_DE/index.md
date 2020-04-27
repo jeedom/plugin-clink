@@ -7,7 +7,7 @@ Zeigen Sie die Eingangskamera direkt auf Ihrem Jeedom an.
 Plugin Konfiguration 
 =======================
 
-Nachdem Sie das Plugin heruntergeladen haben, müssen Sie es nur noch aktivieren.
+Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren,
 Auf dieser Ebene gibt es keine Konfiguration.
 
 ![clink1](../images/clink1.PNG)
@@ -37,18 +37,18 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name der Klirrausrüstung** : Name Ihrer Clink-Ausrüstung,
+-   **Name der Klirrausrüstung** : ,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **activate** : macht Ihre Ausrüstung aktiv,
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv,
 
--   **sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
+-   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Name** : der auf dem Dashboard angezeigte Name,
+-   **Name** : Der im Dashboard angezeigte Name,
 
 -   **Modus** : der Anzeigemodus des Elements (in einem Modal, in
     ein neues Fenster oder im aktuellen Fenster)
@@ -77,23 +77,23 @@ Nachfolgend finden Sie die Liste der Bestellungen :
 
 -   **Anzeige** : ermöglicht die Anzeige der Daten im Dashboard
 
--   **Test** : ermöglicht das Testen des Befehls,
+-   **Test** : Wird zum Testen des Befehls verwendet,
 
--   **Entfernen** (Zeichen -) : ermöglicht das Löschen des Befehls.
+-   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
-> **wichtig**
+> **Wichtig**
 >
 > Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso für
 > Design !
 
-> **wichtig**
+> **Wichtig**
 >
 > In Mobilgeräten kann das Öffnen einer URL nicht modal erfolgen
 > wie für die Designs.
 
-> **wichtig**
+> **Wichtig**
 >
 > Nicht alle URLs können modal geöffnet werden, dies hängt von der
-> Website (z : google.fr kann nicht modal geöffnet werden). Aufmerksamkeit
+> Website (z : .fr kann nicht modal geöffnet werden). Aufmerksamkeit
 > Auch wenn Sie sich in https befinden, muss die Site unbedingt geöffnet werden
 > in modal entweder in https.
