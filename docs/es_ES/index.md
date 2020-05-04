@@ -25,7 +25,7 @@ equipos) :
 
 ![clink3](../images/clink3.PNG)
 
-> **Punta**
+> **Tip**
 >
 > Como en muchos lugares de Jeedom, coloca el mouse en el extremo izquierdo
 > muestra un menú de acceso rápido (puede, en
@@ -37,30 +37,30 @@ Una vez que haces clic en uno de ellos, obtienes :
 
 Aquí encontrarás toda la configuración de tu equipo :
 
--   **Clink nombre del equipo** : ,
+-   **Clink nombre del equipo** : nombre de su equipo Clink,
 
 -   **Objeto padre** : indica el objeto padre al que pertenece
     equipo,
 
--   **Activar** : activa su equipo,
+-   **Activer** : activa su equipo,
 
 -   **Visible** : hace que su equipo sea visible en el tablero.
 
 A continuación encontrará la lista de pedidos. :
 
--   **Nombre** : el nombre que se muestra en el tablero,
+-   **Nom** : el nombre que se muestra en el tablero,
 
--   **Modo** : El modo de visualización del elemento (en un modo, en
+-   **Mode** : El modo de visualización del elemento (en un modo, en
     una nueva ventana o en la ventana actual)
 
-    > **Nota**
+    > **Note**
     >
     > En el móvil, &quot;nueva ventana&quot; y &quot;ventana actual&quot; hacen lo mismo
     > cosa : abrir enlace en la ventana actual
 
--   **Puntao** : tipo de elemento para abrir (vista, diseño, panel o URL)
+-   **Type** : tipo de elemento para abrir (vista, diseño, panel o URL)
 
--   **Nombre** : opción según el elemento seleccionado para abrir
+-   **Nom** : opción según el elemento seleccionado para abrir
 
 -   **Filtro de usuario** : permite filtrar para abrir el elemento
     solo si este usuario ha iniciado sesión
@@ -68,32 +68,32 @@ A continuación encontrará la lista de pedidos. :
 -   **Filtro de página** : permite filtrar para abrir el elemento solo si
     estamos en la página mencionada
 
-    > **Nota**
+    > **Note**
     >
     > En la versión móvil, esta opción no hace nada
 
 -   **Filtro de interfaz** : permite filtrar para abrir el elemento
     solo en versión móvil / de escritorio o en ambos
 
--   **Mostrar** : permite mostrar los datos en el tablero
+-   **Afficher** : permite mostrar los datos en el tablero
 
--   **Probar** : Se usa para probar el comando,
+-   **Tester** : Se usa para probar el comando,
 
--   **Borrar** (signo -) : permite eliminar el comando.
+-   **Supprimer** (signo -) : permite eliminar el comando.
 
-> **Importante**
+> **Important**
 >
 > Es importante no abrir la misma vista en sí mismo, lo mismo para
 > Diseños !
 
-> **Importante**
+> **Important**
 >
 > En el móvil, la apertura de una URL no se puede hacer de manera modal
 > en cuanto a los diseños.
 
-> **Importante**
+> **Important**
 >
 > No todas las URL se pueden abrir en modal, depende de
-> sitio (ex : .fr no puede abrirse en un modal). Atención
+> sitio (ex : google.fr no puede abrirse en un modal). Atención
 > Además, si está en https, es imprescindible que el sitio se abra
 > en modal ya sea en https.

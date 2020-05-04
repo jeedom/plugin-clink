@@ -6,7 +6,7 @@
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
         "Gestion": "Gestão",
         "Ajouter": "Adicionar",
-        "Mes clinks": "",
+        "Mes clinks": "Meus clinks",
         "Rechercher": "Pesquisa",
         "Configuration avancée": "Configuração avançada",
         "Dupliquer": "Duplicar",
@@ -15,7 +15,7 @@
         "Equipement": "Equipamento",
         "Commandes": "Comandos",
         "Nom de l'équipement": "Nome de equipamentos",
-        "Nom de l'équipement virtuel": "",
+        "Nom de l'équipement virtuel": "Nome do dispositivo virtual",
         "Objet parent": "Objeto pai",
         "Aucun": "Nemhum",
         "Catégorie": "Categoria",
@@ -27,10 +27,10 @@
         "Options": "Opções"
     },
     "plugins\/clink\/desktop\/js\/clink.js": {
-        "Mode": "",
-        "Modale": "",
-        "Fenêtre courante": "",
-        "Nouvel onglet": "",
+        "Mode": "Modo",
+        "Modale": "Modal",
+        "Fenêtre courante": "Janela atual",
+        "Nouvel onglet": "Nova aba",
         "Type": "Tipo",
         "Vue": "Vista",
         "Design": "Projeto",
@@ -38,11 +38,11 @@
         "Dashboard": "Painel de instrumentos",
         "URL": "URL ",
         "Nom": "Nome",
-        "Filtre utilisateur": "",
+        "Filtre utilisateur": "Filtro de usuário",
         "Tous": "Tudo",
-        "Filtre page": "",
-        "Toute": "",
-        "Filtre interface": "",
+        "Filtre page": "Filtro de página",
+        "Toute": "Qualquer",
+        "Filtre interface": "Filtro de interface",
         "Desktop": "Área de Trabalho",
         "Mobile": "Móvel",
         "Afficher": "Display",
@@ -50,6 +50,6 @@
         "Défaut": "Falha"
     },
     "plugins\/clink\/core\/class\/clink.class.php": {
-        "Fermer": ""
+        "Fermer": "Fechar"
     }
 }

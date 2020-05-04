@@ -37,30 +37,30 @@ Once you click on one of them, you get :
 
 Here you find all the configuration of your equipment :
 
--   **Clink equipment name** : ,
+-   **Clink equipment name** : Clink equipment name,
 
 -   **Parent object** : indicates the parent object to which belongs
     equipment,
 
--   **Activate** : makes your equipment active,
+-   **Activer** : makes your equipment active,
 
 -   **Visible** : makes your equipment visible on the dashboard.
 
 Below you find the list of orders :
 
--   **Name** : the name displayed on the dashboard,
+-   **Nom** : the name displayed on the dashboard,
 
--   **Fashion** : the display mode of the element (in a modal, in
+-   **Mode** : the display mode of the element (in a modal, in
     a new window or in the current window)
 
-    > **NOTE**
+    > **Note**
     >
     > In mobile &quot;new window&quot; and &quot;current window&quot; do the same
     > thing : open link in current window
 
 -   **Type** : type of element to open (view, design, panel or URL)
 
--   **Name** : option depending on the item selected to open
+-   **Nom** : option depending on the item selected to open
 
 -   **User filter** : allows to filter to open the element
     only if this user is logged in
@@ -68,18 +68,18 @@ Below you find the list of orders :
 -   **Page filter** : allows to filter to open the element only if
     we are on the page mentioned
 
-    > **NOTE**
+    > **Note**
     >
     > In mobile version this option does nothing
 
 -   **Interface filter** : allows to filter to open the element
     only in mobile / desktop version or on both
 
--   **Show** : allows to display the data on the dashboard
+-   **Afficher** : allows to display the data on the dashboard
 
--   **Test** : Used to test the command,
+-   **Tester** : Used to test the command,
 
--   **Delete** (sign -) : allows to delete the command.
+-   **Supprimer** (sign -) : allows to delete the command.
 
 > **Important**
 >
@@ -94,6 +94,6 @@ Below you find the list of orders :
 > **Important**
 >
 > Not all URLs can be opened in modal, it depends on the
->  : .fr cannot be opened in a modal). Warning
+> site (ex : google.fr cannot be opened in a modal). Warning
 > also if you are in https, it is imperative that the site to open
 > in modal either in https.

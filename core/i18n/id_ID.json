@@ -27,7 +27,7 @@
         "Options": "Pilihan"
     },
     "plugins\/clink\/desktop\/js\/clink.js": {
-        "Mode": "",
+        "Mode": "Mode",
         "Modale": "",
         "Fenêtre courante": "",
         "Nouvel onglet": "",

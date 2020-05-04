@@ -25,7 +25,7 @@ Ausrüstung) :
 
 ![clink3](../images/clink3.PNG)
 
-> **Spitze**
+> **Tip**
 >
 > Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
 > ruft ein Schnellzugriffsmenü auf (Sie können unter
@@ -37,30 +37,30 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name der Klirrausrüstung** : ,
+-   **Name der Klirrausrüstung** : Name Ihrer Clink-Ausrüstung,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Aktivieren** : macht Ihre Ausrüstung aktiv,
+-   **Activer** : macht Ihre Ausrüstung aktiv,
 
--   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
+-   **Visible** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Name** : Der im Dashboard angezeigte Name,
+-   **Nom** : Der im Dashboard angezeigte Name,
 
--   **Modus** : der Anzeigemodus des Elements (in einem Modal, in
+-   **Mode** : der Anzeigemodus des Elements (in einem Modal, in
     ein neues Fenster oder im aktuellen Fenster)
 
-    > **Notiz**
+    > **Note**
     >
     > Im Handy machen &quot;neues Fenster&quot; und &quot;aktuelles Fenster&quot; dasselbe
     > Sache : Link im aktuellen Fenster öffnen
 
--   **Typ** : Art des zu öffnenden Elements (Ansicht, Design, Bedienfeld oder URL)
+-   **Type** : Art des zu öffnenden Elements (Ansicht, Design, Bedienfeld oder URL)
 
--   **Name** : Option abhängig von dem zum Öffnen ausgewählten Element
+-   **Nom** : Option abhängig von dem zum Öffnen ausgewählten Element
 
 -   **Benutzerfilter** : Ermöglicht das Filtern zum Öffnen des Elements
     Nur wenn dieser Benutzer angemeldet ist
@@ -68,32 +68,32 @@ Nachfolgend finden Sie die Liste der Bestellungen :
 -   **Seitenfilter** : erlaubt zu filtern, um das Element nur zu öffnen, wenn
     Wir sind auf der genannten Seite
 
-    > **Notiz**
+    > **Note**
     >
     > In der mobilen Version bewirkt diese Option nichts
 
 -   **Schnittstellenfilter** : Ermöglicht das Filtern zum Öffnen des Elements
     Nur in der Mobile / Desktop-Version oder auf beiden
 
--   **Anzeige** : ermöglicht die Anzeige der Daten im Dashboard
+-   **Afficher** : ermöglicht die Anzeige der Daten im Dashboard
 
--   **Test** : Wird zum Testen des Befehls verwendet,
+-   **Tester** : Wird zum Testen des Befehls verwendet,
 
--   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
+-   **Supprimer** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
-> **Wichtig**
+> **Important**
 >
 > Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso für
 > Design !
 
-> **Wichtig**
+> **Important**
 >
 > In Mobilgeräten kann das Öffnen einer URL nicht modal erfolgen
 > wie für die Designs.
 
-> **Wichtig**
+> **Important**
 >
 > Nicht alle URLs können modal geöffnet werden, dies hängt von der
-> Website (z : .fr kann nicht modal geöffnet werden). Aufmerksamkeit
+> Website (z : google.fr kann nicht modal geöffnet werden). Aufmerksamkeit
 > Auch wenn Sie sich in https befinden, muss die Site unbedingt geöffnet werden
 > in modal entweder in https.

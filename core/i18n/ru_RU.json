@@ -27,7 +27,7 @@
         "Options": "Опции"
     },
     "plugins\/clink\/desktop\/js\/clink.js": {
-        "Mode": "",
+        "Mode": "Режим",
         "Modale": "",
         "Fenêtre courante": "",
         "Nouvel onglet": "",
