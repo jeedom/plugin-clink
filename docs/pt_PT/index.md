@@ -25,7 +25,7 @@ equipamento) :
 
 ![clink3](../images/clink3.PNG)
 
-> **Tip**
+> **Dica**
 >
 > Como em muitos lugares em Jeedom, coloque o mouse na extremidade esquerda
 > abre um menu de acesso rápido (você pode, em
@@ -42,25 +42,25 @@ Aqui você encontra toda a configuração do seu equipamento :
 -   **Objeto pai** : indica o objeto pai ao qual pertence
     o equipamento,
 
--   **Activer** : torna seu equipamento ativo,
+-   **Ativar** : torna seu equipamento ativo,
 
--   **Visible** : torna seu equipamento visível no painel.
+-   **Visivél** : torna seu equipamento visível no painel.
 
 Abaixo você encontra a lista de pedidos :
 
--   **Nom** : o nome exibido no painel,
+-   **Nome** : o nome exibido no painel,
 
--   **Mode** : o modo de exibição do elemento (em um modal, em
+-   **Modo** : o modo de exibição do elemento (em um modal, em
     uma nova janela ou na janela atual)
 
-    > **Note**
+    > **NOTA**
     >
     > No celular, "nova janela" e "janela atual" fazem o mesmo
     > coisa : abrir link na janela atual
 
--   **Type** : tipo de elemento a ser aberto (visualização, design, painel ou URL)
+-   **Tipo** : tipo de elemento a ser aberto (visualização, design, painel ou URL)
 
--   **Nom** : opção dependendo do item selecionado para abrir
+-   **Nome** : opção dependendo do item selecionado para abrir
 
 -   **Filtro de usuário** : permite filtrar para abrir o elemento
     somente se este usuário estiver logado
@@ -68,30 +68,30 @@ Abaixo você encontra a lista de pedidos :
 -   **Filtro de página** : permite filtrar para abrir o elemento somente se
     nós estamos na página mencionada
 
-    > **Note**
+    > **NOTA**
     >
     > Na versão móvel, esta opção não faz nada
 
 -   **Filtro de interface** : permite filtrar para abrir o elemento
     somente na versão móvel / desktop ou em ambas
 
--   **Afficher** : permite exibir os dados no painel
+-   **Display** : permite exibir os dados no painel
 
--   **Tester** : permite testar o comando,
+-   **Teste** : permite testar o comando,
 
--   **Supprimer** (sinal -) : permite excluir o comando.
+-   **Remover** (sinal -) : permite excluir o comando.
 
-> **Important**
+> **IMPORTANTE**
 >
 > É importante não abrir a mesma visão em si mesma, idem para
 > Projetos !
 
-> **Important**
+> **IMPORTANTE**
 >
 > No celular, a abertura de um URL não pode ser feita de forma modal
 > quanto aos desenhos.
 
-> **Important**
+> **IMPORTANTE**
 >
 > Nem todos os URLs podem ser abertos no modal, isso depende da
 > site (ex : Google.fr não pode ser aberto em um modal). Tenha cuidado

@@ -25,7 +25,7 @@ equipos) :
 
 ![clink3](../images/clink3.PNG)
 
-> **Tip**
+> **Punta**
 >
 > Como en muchos lugares de Jeedom, coloca el mouse en el extremo izquierdo
 > muestra un menú de acceso rápido (puede, en
@@ -42,25 +42,25 @@ Aquí encontrarás toda la configuración de tu equipo :
 -   **Objeto padre** : indica el objeto padre al que pertenece
     equipo,
 
--   **Activer** : activa su equipo,
+-   **Activar** : activa su equipo,
 
 -   **Visible** : hace que su equipo sea visible en el tablero.
 
 A continuación encontrará la lista de pedidos. :
 
--   **Nom** : el nombre que se muestra en el tablero,
+-   **Nombre** : el nombre que se muestra en el tablero,
 
--   **Mode** : El modo de visualización del elemento (en un modo, en
+-   **Modo** : El modo de visualización del elemento (en un modo, en
     una nueva ventana o en la ventana actual)
 
-    > **Note**
+    > **Nota**
     >
     > En el móvil, &quot;nueva ventana&quot; y &quot;ventana actual&quot; hacen lo mismo
     > cosa : abrir enlace en la ventana actual
 
--   **Type** : tipo de elemento para abrir (vista, diseño, panel o URL)
+-   **Tipo** : tipo de elemento para abrir (vista, diseño, panel o URL)
 
--   **Nom** : opción según el elemento seleccionado para abrir
+-   **Nombre** : opción según el elemento seleccionado para abrir
 
 -   **Filtro de usuario** : permite filtrar para abrir el elemento
     solo si este usuario ha iniciado sesión
@@ -68,30 +68,30 @@ A continuación encontrará la lista de pedidos. :
 -   **Filtro de página** : permite filtrar para abrir el elemento solo si
     estamos en la página mencionada
 
-    > **Note**
+    > **Nota**
     >
     > En la versión móvil, esta opción no hace nada
 
 -   **Filtro de interfaz** : permite filtrar para abrir el elemento
     solo en versión móvil / de escritorio o en ambos
 
--   **Afficher** : permite mostrar los datos en el tablero
+-   **Mostrar** : permite mostrar los datos en el tablero
 
--   **Tester** : Se usa para probar el comando,
+-   **Probar** : Se usa para probar el comando,
 
--   **Supprimer** (signo -) : permite eliminar el comando.
+-   **Borrar** (signo -) : permite eliminar el comando.
 
-> **Important**
+> **Importante**
 >
 > Es importante no abrir la misma vista en sí mismo, lo mismo para
 > Diseños !
 
-> **Important**
+> **Importante**
 >
 > En el móvil, la apertura de una URL no se puede hacer de manera modal
 > en cuanto a los diseños.
 
-> **Important**
+> **Importante**
 >
 > No todas las URL se pueden abrir en modal, depende de
 > sitio (ex : google.fr no puede abrirse en un modal). Atención

@@ -25,7 +25,7 @@ Ausrüstung) :
 
 ![clink3](../images/clink3.PNG)
 
-> **Tip**
+> **Spitze**
 >
 > Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
 > ruft ein Schnellzugriffsmenü auf (Sie können unter
@@ -42,25 +42,25 @@ Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Activer** : macht Ihre Ausrüstung aktiv,
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv,
 
--   **Visible** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
+-   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Nom** : Der im Dashboard angezeigte Name,
+-   **Name** : Der im Dashboard angezeigte Name,
 
--   **Mode** : der Anzeigemodus des Elements (in einem Modal, in
+-   **Modus** : der Anzeigemodus des Elements (in einem Modal, in
     ein neues Fenster oder im aktuellen Fenster)
 
-    > **Note**
+    > **Notiz**
     >
     > Im Handy machen &quot;neues Fenster&quot; und &quot;aktuelles Fenster&quot; dasselbe
     > Sache : Link im aktuellen Fenster öffnen
 
--   **Type** : Art des zu öffnenden Elements (Ansicht, Design, Bedienfeld oder URL)
+-   **Typ** : Art des zu öffnenden Elements (Ansicht, Design, Bedienfeld oder URL)
 
--   **Nom** : Option abhängig von dem zum Öffnen ausgewählten Element
+-   **Name** : Option abhängig von dem zum Öffnen ausgewählten Element
 
 -   **Benutzerfilter** : Ermöglicht das Filtern zum Öffnen des Elements
     Nur wenn dieser Benutzer angemeldet ist
@@ -68,30 +68,30 @@ Nachfolgend finden Sie die Liste der Bestellungen :
 -   **Seitenfilter** : erlaubt zu filtern, um das Element nur zu öffnen, wenn
     Wir sind auf der genannten Seite
 
-    > **Note**
+    > **Notiz**
     >
     > In der mobilen Version bewirkt diese Option nichts
 
 -   **Schnittstellenfilter** : Ermöglicht das Filtern zum Öffnen des Elements
     Nur in der Mobile / Desktop-Version oder auf beiden
 
--   **Afficher** : ermöglicht die Anzeige der Daten im Dashboard
+-   **Anzeige** : ermöglicht die Anzeige der Daten im Dashboard
 
--   **Tester** : Wird zum Testen des Befehls verwendet,
+-   **Test** : Wird zum Testen des Befehls verwendet,
 
--   **Supprimer** (Zeichen -) : ermöglicht das Löschen des Befehls.
+-   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
-> **Important**
+> **Wichtig**
 >
 > Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso für
 > Design !
 
-> **Important**
+> **Wichtig**
 >
 > In Mobilgeräten kann das Öffnen einer URL nicht modal erfolgen
 > wie für die Designs.
 
-> **Important**
+> **Wichtig**
 >
 > Nicht alle URLs können modal geöffnet werden, dies hängt von der
 > Website (z : google.fr kann nicht modal geöffnet werden). Aufmerksamkeit
