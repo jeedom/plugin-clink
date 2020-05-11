@@ -37,7 +37,7 @@ Once you click on one of them, you get :
 
 Here you find all the configuration of your equipment :
 
--   **Clink equipment name** : Clink equipment name,
+-   **Name de equipment Clink** : Clink equipment name,
 
 -   **Parent object** : indicates the parent object to which belongs
     equipment,

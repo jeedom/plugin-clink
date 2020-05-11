@@ -37,7 +37,7 @@ Depois de clicar em um deles, você obtém :
 
 Aqui você encontra toda a configuração do seu equipamento :
 
--   **Nome do equipamento do tim-tim** : nome do seu equipamento Clink,
+-   **Nome de o equipamento Clink** : nome do seu equipamento Clink,
 
 -   **Objeto pai** : indica o objeto pai ao qual pertence
     o equipamento,

@@ -4,7 +4,7 @@
 
 # 25/04/2018
 
-- Corrección de un error en la imagen del equipo del complemento.
+- Corrección de un error en la imagen del equipo del complemento
 
 # 03/16/2018
 

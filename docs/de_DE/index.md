@@ -37,7 +37,7 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name der Klirrausrüstung** : Name Ihrer Clink-Ausrüstung,
+-   **Name de Ausrüstung Clink** : Name Ihrer Clink-Ausrüstung,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,

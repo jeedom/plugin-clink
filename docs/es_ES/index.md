@@ -1,7 +1,7 @@
 Este complemento permite la gestión de enlaces y eventos en la interfaz de
 Jeedom. Por ejemplo, puede crear un pedido que
 abre un modal (ventana de diálogo) con una vista que contiene su
-cámaras. Esto permite, por ejemplo, cuando alguien llama a su casa.
+cámaras. Esto permite, por ejemplo, cuando alguien llama a su casa
 muestra la cámara de entrada directamente en tu Jeedom.
 
 Configuración del plugin 
@@ -37,7 +37,7 @@ Una vez que haces clic en uno de ellos, obtienes :
 
 Aquí encontrarás toda la configuración de tu equipo :
 
--   **Clink nombre del equipo** : nombre de su equipo Clink,
+-   **Nombre de equipo Clink** : nombre de su equipo Clink,
 
 -   **Objeto padre** : indica el objeto padre al que pertenece
     equipo,
@@ -46,7 +46,7 @@ Aquí encontrarás toda la configuración de tu equipo :
 
 -   **Visible** : hace que su equipo sea visible en el tablero.
 
-A continuación encontrará la lista de pedidos. :
+A continuación encontrará la lista de pedidos :
 
 -   **Nombre** : el nombre que se muestra en el tablero,
 
