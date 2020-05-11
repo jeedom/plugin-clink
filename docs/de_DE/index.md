@@ -1,35 +1,22 @@
-Dieses Plugin ermöglicht die Verwaltung von Links und Ereignissen auf der Oberfläche von
-Jeedom. Sie können damit beispielsweise eine Bestellung erstellen, die
-öffnet ein Modal (Dialogfenster) mit einer Ansicht, die Ihre enthält
-Kameras. Dies ermöglicht zum Beispiel, wenn jemand bei Ihnen zu Hause klingelt
-Zeigen Sie die Eingangskamera direkt auf Ihrem Jeedom an.
+# Klicken Sie auf Link Plugin
 
-Plugin Konfiguration 
-=======================
+Dieses Plugin ermöglicht die Verwaltung von Links und Ereignissen auf der Jeedom-Oberfläche. Mit diesem können Sie beispielsweise eine Bestellung erstellen, die ein Modal (Dialogfenster) mit einer Ansicht öffnet, die Ihre Kameras enthält. Dies ermöglicht beispielsweise, wenn jemand bei Ihnen zu Hause klingelt, um die Einstiegskamera direkt auf Ihrem Jeedom anzuzeigen.
 
-Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren,
-Auf dieser Ebene gibt es keine Konfiguration.
+# Plugin Konfiguration
+
+Nachdem Sie das Plugin heruntergeladen haben, müssen Sie es nur noch aktivieren. Auf dieser Ebene gibt es keine Konfiguration.
 
 ![clink1](../images/clink1.PNG)
 
-Gerätekonfiguration 
-=============================
+# Gerätekonfiguration
 
-Die Konfiguration der Clink-Geräte ist über das Menü zugänglich
-Plugins :
+Auf die Konfiguration der Clink-Geräte kann über das Plugins-Menü zugegriffen werden :
 
 ![clink2](../images/clink2.PNG)
 
-So sieht die Clink-Plugin-Seite aus (hier mit bereits 1
-Ausrüstung) :
+So sieht die Clink-Plugin-Seite aus (hier mit bereits 1 Gerät) :
 
 ![clink3](../images/clink3.PNG)
-
-> **Spitze**
->
-> Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
-> ruft ein Schnellzugriffsmenü auf (Sie können unter
-> Lassen Sie es in Ihrem Profil immer sichtbar.).
 
 Sobald Sie auf eine davon klicken, erhalten Sie :
 
@@ -37,63 +24,43 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name de Ausrüstung Clink** : Name Ihrer Clink-Ausrüstung,
-
--   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
-    Ausrüstung,
-
+-   **Name de l'équipement Clink** : Name Ihrer Clink-Ausrüstung,
+-   **Übergeordnetes Objekt** : Gibt das übergeordnete Objekt an, zu dem das Gerät gehört,
 -   **Aktivieren** : macht Ihre Ausrüstung aktiv,
-
 -   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
 -   **Name** : Der im Dashboard angezeigte Name,
-
--   **Modus** : der Anzeigemodus des Elements (in einem Modal, in
-    ein neues Fenster oder im aktuellen Fenster)
+-   **Modus** : den Anzeigemodus des Elements (in einem Modal, in einem neuen Fenster oder im aktuellen Fenster)
 
     > **Notiz**
     >
-    > Im Handy machen &quot;neues Fenster&quot; und &quot;aktuelles Fenster&quot; dasselbe
-    > Sache : Link im aktuellen Fenster öffnen
+    > Im Handy machen "neues Fenster" und "aktuelles Fenster" dasselbe : Link im aktuellen Fenster öffnen
 
 -   **Typ** : Art des zu öffnenden Elements (Ansicht, Design, Bedienfeld oder URL)
-
 -   **Name** : Option abhängig von dem zum Öffnen ausgewählten Element
+-   **Benutzerfilter** : Ermöglicht das Filtern, um das Element nur zu öffnen, wenn dieser Benutzer verbunden ist
 
--   **Benutzerfilter** : Ermöglicht das Filtern zum Öffnen des Elements
-    Nur wenn dieser Benutzer angemeldet ist
-
--   **Seitenfilter** : erlaubt zu filtern, um das Element nur zu öffnen, wenn
-    Wir sind auf der genannten Seite
+-   **Seitenfilter** : Mit dieser Option können Sie filtern, um das Element nur zu öffnen, wenn Sie sich auf der genannten Seite befinden
 
     > **Notiz**
     >
     > In der mobilen Version bewirkt diese Option nichts
 
--   **Schnittstellenfilter** : Ermöglicht das Filtern zum Öffnen des Elements
-    Nur in der Mobile / Desktop-Version oder auf beiden
-
+-   **Schnittstellenfilter** : Ermöglicht das Filtern, um das Element nur in der mobilen / Desktop-Version oder auf beiden zu öffnen
 -   **Anzeige** : ermöglicht die Anzeige der Daten im Dashboard
-
 -   **Test** : Wird zum Testen des Befehls verwendet,
-
 -   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
 > **Wichtig**
 >
-> Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso für
-> Design !
+> Es ist wichtig, nicht die gleiche Sicht auf sich selbst zu öffnen, ebenso nicht für die Entwürfe !
 
 > **Wichtig**
 >
-> In Mobilgeräten kann das Öffnen einer URL nicht modal erfolgen
-> wie für die Designs.
+> In Mobilgeräten kann das Öffnen einer URL nicht wie bei den Designs modal erfolgen.
 
 > **Wichtig**
 >
-> Nicht alle URLs können modal geöffnet werden, dies hängt von der
-> Website (z : google.fr kann nicht modal geöffnet werden). Aufmerksamkeit
-> Auch wenn Sie sich in https befinden, muss die Site unbedingt geöffnet werden
-> in modal entweder in https.
+> Nicht alle URLs können im modalen Modus geöffnet werden, dies hängt von der Site ab (z : google.fr kann nicht modal geöffnet werden). Achtung, auch wenn Sie sich in https befinden, ist es unbedingt erforderlich, dass sich die Site, die modal geöffnet werden soll, in https befindet.
