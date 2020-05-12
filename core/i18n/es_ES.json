@@ -1,0 +1,55 @@
+{
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado"
+    },
+    "plugins\/clink\/desktop\/php\/clink.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Gestion": "Gestión",
+        "Ajouter": "Añadir",
+        "Mes clinks": "Mis tintineos",
+        "Rechercher": "Buscar",
+        "Configuration avancée": "Configuración avanzada",
+        "Dupliquer": "Duplicar",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "Borrar",
+        "Equipement": "Dispositivos",
+        "Commandes": "Comandos",
+        "Nom de l'équipement": "Nombre del equipo",
+        "Nom de l'équipement virtuel": "Nombre del dispositivo virtual",
+        "Objet parent": "Objeto padre",
+        "Aucun": "Ninguna",
+        "Catégorie": "Categoría",
+        "Activer": "Activar",
+        "Visible": "Visible",
+        "Ajouter une commande": "Añadir una orden",
+        "Nom": "Nombre",
+        "Paramètres": "Configuraciones",
+        "Options": "Opciones"
+    },
+    "plugins\/clink\/desktop\/js\/clink.js": {
+        "Mode": "Modo",
+        "Modale": "Modal",
+        "Fenêtre courante": "Ventana actual",
+        "Nouvel onglet": "Nueva pestaña",
+        "Type": "Tipo",
+        "Vue": "Vista",
+        "Design": "Diseño",
+        "Panel": "Panel",
+        "Dashboard": "Salpicadero",
+        "URL": "URL",
+        "Nom": "Nombre",
+        "Filtre utilisateur": "Filtro de usuario",
+        "Tous": "Todos",
+        "Filtre page": "Filtro de página",
+        "Toute": "Toda",
+        "Filtre interface": "Filtro de interfaz",
+        "Desktop": "Escritorio",
+        "Mobile": "Móvil",
+        "Afficher": "Mostrar",
+        "Tester": "Probar",
+        "Défaut": "Por defecto"
+    },
+    "plugins\/clink\/core\/class\/clink.class.php": {
+        "Fermer": "Cerca"
+    }
+}

@@ -21,7 +21,7 @@
 		}else if (cmd.configuration.type == 'dashboard'){ 
 			var url = 'index.php?v=d&p='+cmd.configuration.type+'&object_id='+cmd.configuration.link;
 		}else if (cmd.configuration.type == 'plan'){ 
-			var url = window.location.origin +'/index.php?v=d&p=plan&plan_id='+cmd.configuration.link;
+			var url = 'index.php?v=d&p=plan&plan_id='+cmd.configuration.link;
 		} else {
 			var url = 'index.php?v=d&p='+cmd.configuration.type+'&'+cmd.configuration.type+'_id='+cmd.configuration.link;
 		}

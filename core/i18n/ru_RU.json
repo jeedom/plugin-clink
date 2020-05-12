@@ -1,0 +1,55 @@
+{
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
+        "401 - Accès non autorisé": "401 - Несанкционированный доступ"
+    },
+    "plugins\/clink\/desktop\/php\/clink.php": {
+        "401 - Accès non autorisé": "401 - Несанкционированный доступ",
+        "Gestion": "Управление",
+        "Ajouter": "Добавить",
+        "Mes clinks": "",
+        "Rechercher": "поиск",
+        "Configuration avancée": "Расширенные настройки",
+        "Dupliquer": "дубликат",
+        "Sauvegarder": "Сохранить",
+        "Supprimer": "удаление",
+        "Equipement": "Оборудование",
+        "Commandes": "Команды",
+        "Nom de l'équipement": "Название оборудования",
+        "Nom de l'équipement virtuel": "",
+        "Objet parent": "Родительский объект",
+        "Aucun": "Нет",
+        "Catégorie": "категория",
+        "Activer": "активировать",
+        "Visible": "Видимый",
+        "Ajouter une commande": "Добавить команду",
+        "Nom": "Имя",
+        "Paramètres": "настройки",
+        "Options": "Опции"
+    },
+    "plugins\/clink\/desktop\/js\/clink.js": {
+        "Mode": "Режим",
+        "Modale": "",
+        "Fenêtre courante": "",
+        "Nouvel onglet": "",
+        "Type": "Тип",
+        "Vue": "Просмотр",
+        "Design": "Дизайн",
+        "Panel": "Панель",
+        "Dashboard": "Приборная панель",
+        "URL": "URL ",
+        "Nom": "Имя",
+        "Filtre utilisateur": "",
+        "Tous": "все",
+        "Filtre page": "",
+        "Toute": "",
+        "Filtre interface": "",
+        "Desktop": "Десктоп",
+        "Mobile": "мобильный",
+        "Afficher": "дисплей",
+        "Tester": "Тест",
+        "Défaut": "По умолчанию"
+    },
+    "plugins\/clink\/core\/class\/clink.class.php": {
+        "Fermer": "близко"
+    }
+}

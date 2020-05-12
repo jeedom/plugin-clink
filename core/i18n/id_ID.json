@@ -1,0 +1,55 @@
+{
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
+        "401 - Accès non autorisé": "401 - Akses tidak sah"
+    },
+    "plugins\/clink\/desktop\/php\/clink.php": {
+        "401 - Accès non autorisé": "401 - Akses tidak sah",
+        "Gestion": "Manajemen",
+        "Ajouter": "Tambahan",
+        "Mes clinks": "",
+        "Rechercher": "Pencarian",
+        "Configuration avancée": "Konfigurasi lanjutan",
+        "Dupliquer": "Duplikat",
+        "Sauvegarder": "Menyimpan",
+        "Supprimer": "Menghapus",
+        "Equipement": "Peralatan",
+        "Commandes": "Perintah",
+        "Nom de l'équipement": "Nama peralatan",
+        "Nom de l'équipement virtuel": "",
+        "Objet parent": "Objek induk",
+        "Aucun": "Tak ada",
+        "Catégorie": "Kategori",
+        "Activer": "Mengaktifkan",
+        "Visible": "Terlihat",
+        "Ajouter une commande": "Tambahan pesanan",
+        "Nom": "Nama",
+        "Paramètres": "Parameter²",
+        "Options": "Pilihan"
+    },
+    "plugins\/clink\/desktop\/js\/clink.js": {
+        "Mode": "Mode",
+        "Modale": "",
+        "Fenêtre courante": "",
+        "Nouvel onglet": "",
+        "Type": "Jenis",
+        "Vue": "Pemandangan",
+        "Design": "Disain",
+        "Panel": "",
+        "Dashboard": "",
+        "URL": "URL ",
+        "Nom": "Nama",
+        "Filtre utilisateur": "",
+        "Tous": "Semua",
+        "Filtre page": "",
+        "Toute": "",
+        "Filtre interface": "",
+        "Desktop": "",
+        "Mobile": "Mobil",
+        "Afficher": "Memenitikan",
+        "Tester": "Coba",
+        "Défaut": "Kesalahan"
+    },
+    "plugins\/clink\/core\/class\/clink.class.php": {
+        "Fermer": ""
+    }
+}

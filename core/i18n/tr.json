@@ -1,0 +1,55 @@
+{
+    "plugins\/clink\/desktop\/modal\/iframe.clink.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim"
+    },
+    "plugins\/clink\/desktop\/php\/clink.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Gestion": "Idare",
+        "Ajouter": "Ekle",
+        "Mes clinks": "",
+        "Rechercher": "Arayın",
+        "Configuration avancée": "Gelişmiş ayarlar",
+        "Dupliquer": "Kopyala",
+        "Sauvegarder": "Kaydet",
+        "Supprimer": "Sil",
+        "Equipement": "Cihaz",
+        "Commandes": "Komutalar",
+        "Nom de l'équipement": "Ekipman ismi",
+        "Nom de l'équipement virtuel": "",
+        "Objet parent": "Üst nesne",
+        "Aucun": "Hiçbir",
+        "Catégorie": "Kategori",
+        "Activer": "Etkinleştir",
+        "Visible": "Görülebilir",
+        "Ajouter une commande": "Komuta ekle",
+        "Nom": "İsim",
+        "Paramètres": "Ayarlar ( Séçenekler )",
+        "Options": "Opsiyonlar"
+    },
+    "plugins\/clink\/desktop\/js\/clink.js": {
+        "Mode": "Mod",
+        "Modale": "",
+        "Fenêtre courante": "",
+        "Nouvel onglet": "",
+        "Type": "Çeşit",
+        "Vue": "İzlenme",
+        "Design": "Disayn",
+        "Panel": "",
+        "Dashboard": "Gösterge paneli",
+        "URL": "URL'ler",
+        "Nom": "İsim",
+        "Filtre utilisateur": "",
+        "Tous": "Hepsi",
+        "Filtre page": "",
+        "Toute": "",
+        "Filtre interface": "",
+        "Desktop": "Masaüstü",
+        "Mobile": "Mobil",
+        "Afficher": "Göster",
+        "Tester": "Test et",
+        "Défaut": "Varsayılan"
+    },
+    "plugins\/clink\/core\/class\/clink.class.php": {
+        "Fermer": ""
+    }
+}
