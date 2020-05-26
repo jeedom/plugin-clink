@@ -47,7 +47,7 @@
          tr += '<div class="form-group">';
          tr += '<div class="input-group">';
          tr += '<div class="input-group-addon" style="Width: 150px">{{Mode}}</div>';
-         tr += '<select class="form-control configKey" style="Width: 150px" data-l1key="configuration" data-l2key="mode">';
+         tr += '<select class="form-control cmdAttr" style="Width: 150px" data-l1key="configuration" data-l2key="mode">';
          tr += '<option value="modal">{{Modale}}</option>';
          tr += '<option value="current">{{Fenêtre courante}}</option>';
          tr += '<option value="newTab">{{Nouvel onglet}}</option>';
