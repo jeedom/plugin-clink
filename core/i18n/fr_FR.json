@@ -51,5 +51,8 @@
     },
     "plugins\/clink\/core\/class\/clink.class.php": {
         "Fermer": "Fermer"
+    },
+    "info.json": {
+        "Plugin de gestion de lien et d'interface": "Plugin de gestion de lien et d'interface"
     }
 }

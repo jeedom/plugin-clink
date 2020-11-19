@@ -9,10 +9,6 @@ $('body').on('clink::open', function (_event,_options) {
 	if(isset(cmd.utid) && cmd.utid != utid){
 		return;
 	}
-	var dialog = false;
-	if(cmd.configuration.mode == 'modal'){
-		dialog = true;
-	}
 	if(cmd.configuration.type == 'view'){
 		jeedom.view.all({
 			error: function (error) {
@@ -25,7 +21,7 @@ $('body').on('clink::open', function (_event,_options) {
 						if (isset(views[i].display) && isset(views[i].display.icon)) {
 							icon = views[i].display.icon;
 						}
-						page('view',icon.replace(/\"/g, "\'") + ' ' + views[i].name,views[i].id,'',dialog);
+						page('view',icon.replace(/\"/g, "\'") + ' ' + views[i].name,views[i].id,'',false);
 					}
 				}
 			}
@@ -34,7 +30,7 @@ $('body').on('clink::open', function (_event,_options) {
 		var panel = cmd.configuration.link.split(":")
 		for (var i in plugins) {
 			if(plugins[i].id == panel[0]){
-				page(plugins[i].mobile, plugins[i].name,'',plugins[i].id,dialog);
+				page(plugins[i].mobile, plugins[i].name,'',plugins[i].id,false);
 			}
 		}
 	}else if(cmd.configuration.type == 'plan'){
@@ -53,7 +49,7 @@ $('body').on('clink::open', function (_event,_options) {
                     if (isset(objects[i].display) && isset(objects[i].display.icon)) {
                         icon = objects[i].display.icon;
                     }
-					page('equipment',icon.replace(/\"/g, "\'") + ' ' + objects[i].name.replace(/\"/g, "\'"),objects[i].id,'',dialog);
+					page('equipment',icon.replace(/\"/g, "\'") + ' ' + objects[i].name.replace(/\"/g, "\'"),objects[i].id,'',false);
                 }
             }
         }
