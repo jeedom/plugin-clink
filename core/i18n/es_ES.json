@@ -53,6 +53,6 @@
         "Fermer": "Cerca"
     },
     "info.json": {
-        "Plugin de gestion de lien et d'interface": "Complemento de gestión de enlaces e interfaces"
+        "Ce plugin permet la gestion de liens et d’évènements directement sur l’interface Jeedom. Vous pourrez, par exemple, créer une commande qui ouvre une modale (fenêtre de dialogue) avec une vue contenant vos caméras. Cela permet lorsque quelqu’un sonne chez vous d’afficher la caméra de l’entrée sur votre Jeedom.": "Este complemento permite la gestión de enlaces y eventos directamente en la interfaz de Jeedom. Puede, por ejemplo, crear un comando que abra un modal (ventana de diálogo) con una vista que contenga sus cámaras. Esto permite que cuando alguien toca el timbre de la puerta se muestre la cámara de entrada en su Jeedom"
     }
 }

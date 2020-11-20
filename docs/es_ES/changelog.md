@@ -4,13 +4,18 @@
 >
 >Como recordatorio si no hay información sobre la actualización, significa que solo se refiere a la actualización de documentación, traducción o texto
 
+# 19/11/2020
+
+- Nueva presentación de la lista de objetos
+- Actualizar el icono del complemento
+
 # 26/05/2020
 
 - Correcciones de errores
 
 # 08/13/2019
 
-- Soporte para php 7.3
+- Soporte para PHP 7.3
 
 # 25/04/2018
 
