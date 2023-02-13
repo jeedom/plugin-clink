@@ -52,6 +52,9 @@ class clinkCmd extends cmd {
 
 	public function execute($_options = array()) {
 		$array = utils::o2a($this);
+		if($this->getConfiguration('type') == 'url'){
+			$array['link'] = jeedom::evaluateExpression($array['link']);
+		}
 		if (isset($_options['utid'])) {
 			$array['utid'] = $_options['utid'];
 		}
