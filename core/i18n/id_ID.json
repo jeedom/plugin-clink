@@ -6,7 +6,7 @@
         "401 - Accès non autorisé": "401 - Akses tidak sah",
         "Gestion": "Manajemen",
         "Ajouter": "Tambahan",
-        "Mes clinks": "",
+        "Mes clinks": "Mes clinks",
         "Rechercher": "Pencarian",
         "Configuration avancée": "Konfigurasi lanjutan",
         "Dupliquer": "Duplikat",
@@ -15,7 +15,7 @@
         "Equipement": "Peralatan",
         "Commandes": "Perintah",
         "Nom de l'équipement": "Nama peralatan",
-        "Nom de l'équipement virtuel": "",
+        "Nom de l'équipement virtuel": "Nom de l'équipement virtuel",
         "Objet parent": "Objek induk",
         "Aucun": "Tak ada",
         "Catégorie": "Kategori",
@@ -28,31 +28,31 @@
     },
     "plugins\/clink\/desktop\/js\/clink.js": {
         "Mode": "Mode",
-        "Modale": "",
-        "Fenêtre courante": "",
-        "Nouvel onglet": "",
+        "Modale": "Modale",
+        "Fenêtre courante": "Fenêtre courante",
+        "Nouvel onglet": "Nouvel onglet",
         "Type": "Jenis",
         "Vue": "Pemandangan",
         "Design": "Disain",
-        "Panel": "",
-        "Dashboard": "",
+        "Panel": "Panel",
+        "Dashboard": "Dashboard",
         "URL": "URL ",
         "Nom": "Nama",
-        "Filtre utilisateur": "",
+        "Filtre utilisateur": "Filtre utilisateur",
         "Tous": "Semua",
-        "Filtre page": "",
-        "Toute": "",
-        "Filtre interface": "",
-        "Desktop": "",
+        "Filtre page": "Filtre page",
+        "Toute": "Toute",
+        "Filtre interface": "Filtre interface",
+        "Desktop": "Desktop",
         "Mobile": "Mobil",
         "Afficher": "Memenitikan",
         "Tester": "Coba",
         "Défaut": "Kesalahan"
     },
     "plugins\/clink\/core\/class\/clink.class.php": {
-        "Fermer": ""
+        "Fermer": "Fermer"
     },
     "info.json": {
-        "Ce plugin permet la gestion de liens et d’évènements directement sur l’interface Jeedom. Vous pourrez, par exemple, créer une commande qui ouvre une modale (fenêtre de dialogue) avec une vue contenant vos caméras. Cela permet lorsque quelqu’un sonne chez vous d’afficher la caméra de l’entrée sur votre Jeedom.": ""
+        "Ce plugin permet la gestion de liens et d’évènements directement sur l’interface Jeedom. Vous pourrez, par exemple, créer une commande qui ouvre une modale (fenêtre de dialogue) avec une vue contenant vos caméras. Cela permet lorsque quelqu’un sonne chez vous d’afficher la caméra de l’entrée sur votre Jeedom.": "Ce plugin permet la gestion de liens et d’évènements directement sur l’interface Jeedom. Vous pourrez, par exemple, créer une commande qui ouvre une modale (fenêtre de dialogue) avec une vue contenant vos caméras. Cela permet lorsque quelqu’un sonne chez vous d’afficher la caméra de l’entrée sur votre Jeedom"
     }
 }
